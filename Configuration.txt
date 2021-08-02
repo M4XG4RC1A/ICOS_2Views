@@ -31,7 +31,7 @@ PC
 
 Names
 ["","","","","","","","","","","","","","",""]
-["No","Si","Yo","Yo Quiero","Yo No Quiero","","","","","","","","","",""]
+["No","Si","Yo","Yo Quiero","Yo No Quiero"," ","","","","","","","","",""]
 ["Cacahuates","galleta","Huevos","Manzana","Naranja","Palomitas","Papas","Sopa","Tortilla","Uvas",""," ","","",""]
 ["Agua","Jugo","Leche","Refresco","Yogurth","","","","","","","","","",""]
 ["Abrazo","Bailar","Cantar","Clasificar","Correr","Cosquillas","Dibujar","Montra a Caballo","Nadar","Pegar","Pintar","Recortar","Saltar","Estresado",""]
