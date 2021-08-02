@@ -5,7 +5,7 @@ block_cipher = None
 
 
 a = Analysis(['ICOS_Principal.py'],
-             pathex=['/home/max_garcia/Desktop/Actividades/ICOS_2Views'],
+             pathex=['D:\\ActividadesPersonal\\GithubProjects\\ICOS_2Views'],
              binaries=[],
              datas=[],
              hiddenimports=[],
